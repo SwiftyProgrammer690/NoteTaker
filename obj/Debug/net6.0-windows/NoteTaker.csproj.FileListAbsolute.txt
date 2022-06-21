@@ -1,0 +1,17 @@
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\bin\Debug\net6.0-windows\NoteTaker.exe
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\bin\Debug\net6.0-windows\NoteTaker.deps.json
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\bin\Debug\net6.0-windows\NoteTaker.runtimeconfig.json
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\bin\Debug\net6.0-windows\NoteTaker.dll
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\bin\Debug\net6.0-windows\NoteTaker.pdb
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\NoteTaker.csproj.AssemblyReference.cache
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\NoteTaker.Form1.resources
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\NoteTaker.csproj.GenerateResource.cache
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\NoteTaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\NoteTaker.AssemblyInfoInputs.cache
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\NoteTaker.AssemblyInfo.cs
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\NoteTaker.csproj.CoreCompileInputs.cache
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\NoteTaker.dll
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\refint\NoteTaker.dll
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\NoteTaker.pdb
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\NoteTaker.genruntimeconfig.cache
+C:\Users\pchou\source\repos\NoteTaker\NoteTaker\obj\Debug\net6.0-windows\ref\NoteTaker.dll
